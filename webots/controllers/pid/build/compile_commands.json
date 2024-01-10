@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/graduate/vsCode/C/PID-control-for-quadrotor/webots/controllers/pid/build",
+  "command": "E:/Webots/msys64/mingw64/bin/cc.exe  @CMakeFiles/pid.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles/pid.dir/src/pid.c.obj -c D:/graduate/vsCode/C/PID-control-for-quadrotor/webots/controllers/pid/src/pid.c",
+  "file": "D:/graduate/vsCode/C/PID-control-for-quadrotor/webots/controllers/pid/src/pid.c",
+  "output": "CMakeFiles/pid.dir/src/pid.c.obj"
+}
+]

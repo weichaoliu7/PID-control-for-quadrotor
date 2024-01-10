@@ -1,2 +1,2 @@
 # PID-control-for-quadrotor
- 
+This project implements a PID control method for a quadcopter. Firstly, embedded sensors are used to stabilize the robot. Then, a proportional integral derivative (PID) controller is employed to stabilize the quadcopter's roll and pitch angles. Additionally, a cubic function is applied to stabilize the altitude difference of the quadcopter. Furthermore, the project addresses the issue of camera stabilization. Finally, the quadcopter is controlled through computer keyboard inputs.
